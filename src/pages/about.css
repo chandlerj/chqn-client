@@ -1,0 +1,17 @@
+
+.title {
+    font-size: 20pt;
+    font-weight: bold;
+    margin: 10pt;
+}
+h2 {
+    font-size: 15pt;
+    font-weight: bold;
+}
+ul {
+    list-style-type: circle;
+    margin-left: 10pt;
+}
+.body {
+    margin: 10pt;
+}

@@ -1,0 +1,15 @@
+
+.Comments-reply {
+    font-size: 24px;
+    margin: 20pt;
+}
+
+.Comments-description {
+    font-size: 12pt;
+    padding-top: 5pt;
+    padding-bottom: 5pt;
+}
+
+.Comments-button {
+    float: right;
+}
